@@ -7,8 +7,8 @@ Library for system calls.
 | OS      | Status           |
 |---------|------------------|
 | Linux   | Work in progress |
-| Windows | Not planned yet  |
-| macOS   | Not planned yet  |
+| Windows | Work in progress |
+| macOS   | Work in progress |
 
 ## License
 
